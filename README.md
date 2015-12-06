@@ -1,4 +1,6 @@
 # WHMCS-WeChat-Payment
+
+[![Join the chat at https://gitter.im/frankwei98/WHMCS-WeChat-Payment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frankwei98/WHMCS-WeChat-Payment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 很惭愧，就做了一点微小的工作，谢谢大家。
 安装方法:上传wechatpersonal.php到 /whmcs安装目录/modules/gateways/ 即可
 #为什么写这个？
